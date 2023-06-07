@@ -1,0 +1,65 @@
+form{
+    background-color: rgba(0, 0, 0, 0.8);
+    background-size: 1000px;
+    border-radius: 20%;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#personajes{
+    border-radius: 20%;
+    background-color: rgba(0, 0, 0, 0.8);
+    background-size: 900px;
+}
+img{
+    border-radius: 50%;
+    width: 80%;
+}
+#avatarRanking{
+    border-radius: 50%;
+    width: 15%;
+}
+nav{
+    background-image: url(../images/imgNav.jpg);
+}
+
+#columna-r{
+    background-image: url(../images/ranking.jpg);
+    background-size: 610px;
+    background-position: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    border-radius: 10%;
+}
+#columna-mp{
+    background-image: url(../images/misPersonajes.jpg);
+    background-position: center;
+    background-size: 610px;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    border-radius: 10%;
+}
+#container-index{
+    margin-top: 8%;
+}
+.mask{
+    background-color: rgba(0, 0, 0, 0.6);
+}
+.mask2{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.mask div div h4{
+    font-style: italic;
+}
+#objetivos{
+    background-color: rgba(0, 0, 0, 0.8);
+}
+table {
+    border-collapse: collapse;
+    background-color: black;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    color: white;
+}
+
